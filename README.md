@@ -26,8 +26,8 @@
 </div>
 
 <div align="center" style="display: flex; flex-flow: row wrap;">
-	<img src="https://github-readme-stats.vercel.app/api?username=kwangche&show_icons=true&theme=tokyonight" alt="github stats" style="height: 200px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangche&layout=compact&theme=tokyonight" alt="top langs"  style="height: 200px"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=kwangche&show_icons=true&theme=tokyonight" alt="github stats" style="height: 150px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangche&layout=compact&theme=tokyonight" alt="top langs"  style="height: 150px"/>
 </div>
 
 ---
@@ -75,8 +75,8 @@
 			S3 Presigned URL로 <b>직접 업로드</b> 플로우 구성(짧은 만료, key 저장 전략)
 		</td>
 		<td>
-			BE: https://github.com/fs08-moving-f5/fs08-moving-f5-be<br/>
-			FE: https://github.com/fs08-moving-f5/fs08-moving-f5-fe
+			<a href="https://github.com/fs08-moving-f5/fs08-moving-f5-be">BE</a><br/>
+			<a href="https://github.com/fs08-moving-f5/fs08-moving-f5-fe">FE</a>
 		</td>
 	</tr>
 	<tr>
@@ -88,8 +88,8 @@
 			프론트 초기 세팅 및 공통 컴포넌트/상태관리 구조 정리
 		</td>
 		<td>
-			BE: https://github.com/FS-PART-3/8-PHOTO-BE<br/>
-			FE: https://github.com/FS-PART-3/8-PHOTO-FE
+			<a href="https://github.com/FS-PART-3/8-PHOTO-BE">BE</a><br/>
+			<a href="https://github.com/FS-PART-3/8-PHOTO-FE">FE</a>
 		</td>
 	</tr>
 	<tr>
@@ -100,8 +100,8 @@
 			UI/UX 이슈(오버플로우/유효성/반응형) 개선 경험
 		</td>
 		<td>
-			BE: https://github.com/MinJun916/fs08-studyforest-team1-be<br/>
-			FE: https://github.com/MinJun916/fs08-studyforest-team1-fe
+			<a href="https://github.com/MinJun916/fs08-studyforest-team1-be">BE</a><br/>
+			<a href="https://github.com/MinJun916/fs08-studyforest-team1-fe">FE</a>
 		</td>
 	</tr>
 </table>
