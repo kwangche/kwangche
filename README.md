@@ -13,15 +13,15 @@
     <a href="#tech"><img src="https://img.shields.io/badge/Tech%20Stack-111827?style=for-the-badge" alt="tech" /></a>
     <a href="#strengths"><img src="https://img.shields.io/badge/Strengths-22C55E?style=for-the-badge" alt="strengths" /></a>
   </p>
-
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white&" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   </p>
 
 </div>
