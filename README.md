@@ -47,7 +47,7 @@
 <h2 id="tech">Tech Stack</h2>
 
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,prisma,postgres,aws&perline=8" alt="skills" />
+	<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,tailwind,prisma,postgres,aws&perline=9" alt="skills" />
 </div>
 
 <h2 id="strengths">Strengths</h2>
