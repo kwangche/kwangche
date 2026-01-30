@@ -27,8 +27,8 @@
 </div>
 
 <div align="center" style="display: flex; flex-flow: row wrap;">
-	<img src="https://github-readme-stats.vercel.app/api?username=kwangche&show_icons=true&theme=tokyonight" alt="github stats" style="height: 150px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangche&layout=compact&theme=tokyonight" alt="top langs"  style="height: 150px"/>
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=kwangche&show_icons=true&theme=tokyonight" alt="github stats" style="height: 150px"/> -->
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangche&layout=compact&theme=tokyonight" alt="top langs"  style="height: 150px"/> -->
 </div>
 
 ---
