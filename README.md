@@ -109,13 +109,10 @@
 
 <br/>
 <div>
-	<summary><b>그 외 작업들</b></summary>
+	<summary><b>포트폴리오</b></summary>
 	<ul>
 		<li>
-			웹 퍼블리셔로서 제작한 작업물 <a href="https://kwangche.github.io">kwangche.github.io</a>
-		</li>
-		<li>
-			프론트엔드로서 리뉴얼한 모바일 페이지 <a href="https://www.lei.or.kr/m/index.asp">https://www.lei.or.kr/m/index.asp</a>
+			<a href="https://kwangche.github.io">kwangche.github.io</a>
 		</li>
 	</ul>
 </div>
