@@ -73,7 +73,7 @@
         <td>
             GitHub 프로필 기반 <b>AI 심층 분석</b>(커밋 패턴·기술 스택·코드 품질) 파이프라인 설계/구현<br/>
             Google Generative AI를 활용한 <b>연봉 시뮬레이션·맞춤형 인터뷰 질문 생성·사이드 프로젝트 추천</b> 기능 개발<br/>
-            OAuth(GitHub/Google/Kakao/Naver) 소셜 로그인 및 JWT 인증 체계 구축<br/>
+            OAuth(GitHub) 소셜 로그인 및 JWT 인증 체계 구축<br/>
             Next.js 16 + Express 5 풀스택 아키텍처, Docker/Nginx 배포 환경 구성
         </td>
         <td>
