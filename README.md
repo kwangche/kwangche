@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Gwangche%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" style="width:100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Kwangche%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" style="width:100%" />
 
   <p>
     <a href="https://readme-typing-svg.demolab.com">
