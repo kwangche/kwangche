@@ -69,6 +69,21 @@
     </tr>
     <tr>
         <td><b>개인</b></td>
+        <td><b>오롯이 (orosi)</b><br/>(집중 공간 실시간 혼잡도 서비스)</td>
+        <td>
+            서울시 공공데이터 API + 카카오 로컬 API를 결합한 <b>실시간 혼잡도 수집 파이프라인</b> 설계/구현<br/>
+            IP 해시 기반 <b>사용자 투표 시스템</b> 및 시간대별 패턴 분석으로 최적 공간 추천 로직 구현<br/>
+            Stop Hook·CLAUDE.md·Memory 시스템으로 <b>Claude Code 기반 AI 개발 워크플로우</b> 구축<br/>
+            FSD 아키텍처 기반 Next.js 15 App Router 풀스택 구현 (Vercel Cron + Supabase)
+        </td>
+        <td>
+            <a href="https://github.com/kwangche/orosi">Repo</a><br/>
+            <a href="https://www.orosi.app">Live</a><br/>
+            <a href="https://orosi.vercel.app">Dev</a>
+        </td>
+    </tr>
+    <tr>
+        <td><b>개인</b></td>
         <td><b>AIKnown</b><br/>(AI 개발자 역량 분석 플랫폼)</td>
         <td>
             GitHub 프로필 기반 <b>AI 심층 분석</b>(커밋 패턴·기술 스택·코드 품질) 파이프라인 설계/구현<br/>
